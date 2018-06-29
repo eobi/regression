@@ -5,5 +5,23 @@ Regression algorithms in python
 https://www.linkedin.com/pulse/10-types-regression-techniques-application-sushant
 https://www.newgenapps.com/blog/business-applications-uses-regression-analysis-advantages
 
-# linear Regression
+# Simple linear Regression
 ...
+
+# Multiple linear Regression
+...
+
+# Polynomial linear Regression
+...
+
+# Support Vector for Regression
+...
+
+# Decision tree classification
+...
+
+# Random forest classification
+...
+
+
+
